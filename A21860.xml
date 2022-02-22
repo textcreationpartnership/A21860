@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation against vagarant souldiers and others</title>
+            <title>Proclamations. 1589-11-13</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21860</idno>
+            <idno type="STC">STC 8188</idno>
+            <idno type="STC">ESTC S115413</idno>
+            <idno type="EEBO-CITATION">99850632</idno>
+            <idno type="PROQUEST">99850632</idno>
+            <idno type="VID">15847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation against vagarant souldiers and others</title>
+                  <title>Proclamations. 1589-11-13</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogues and vagabonds --  England --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15847:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation againſt vagarant Souldiers and others.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Queenes moſt excellent Maieſty being giuen to vnderſtand, that what through the remiſneſſe and negligence of the Iuſtices of peace, and other the inferior officers, and the contempt of vagarant and ill diſpoſed perſons, and others pretending to haue ſerued her Highneſſe in the warres, there hath not followed that due execution of the proclamantion lately made concerning ſuch perſons, as was by her Highneſſe expected: Her Maieſty therfore, hearing of the great outrages that haue bene, and are daily committed by Soul<g ref="char:EOLhyphen"/>diers, Mariners, and others that pretend to haue ſerued as Souldiers, vpon her High<g ref="char:EOLhyphen"/>neſſe good and louing ſubiects, hath thought meet to authoriſe &amp; appoint as well the Pro<g ref="char:EOLhyphen"/>uoſt marſhall of the ſeuerall Counties, as alſo the Right marſhall of her Highnes owne <gap reason="illegible: in gutter" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>holde, to proceed to the puniſhment of ſuch vagarant and ill diſpoſed perſons as ſhalbe found to offend againſt this <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>t Proclamation now publiſhed, by marſhall Law. And although her Maieſty might in due courſe of pollicy cauſe the ſaid Marſhall, &amp; other the Prouoſt marſhals aboue mentioned, to proceed out of hand to the puniſhment of the tranſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſſ<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs of the late Proclamation, vrged by theyr outrages to take that courſe: yet her Highneſſe of her gracious &amp; prince<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> diſpoſition hath thought meete, that the ſaid perſons ſhall receiue before the execution thereof, a ſecond admonition. And therefore hath ordered, and doth heereby ſignifie, that all Souldiers, Mariners, Maiſterleſſe men, and other vaga<g ref="char:EOLhyphen"/>rant perſons whatſoeuer, ſhall within two dayes after the publiſhing of this proclamation, repaire to the next Corporate <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, or Iuſtice of the peace (where they ſhalbe at the time of the publiſhing of the ſaid proclamation) and ſhall require of them a Paſport to repayre into their Countrey. And in caſe that after the two dayes expyred after publication of this Pro<g ref="char:EOLhyphen"/>clamation, any of the ſaid perſons ſhall be found without his Paſport, or ſhall not according to the tenour of his or their <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſport repayre to the place where ſuch perſon was borne or laſt reſident, according to the ſtatute in that behalfe ordai<g ref="char:EOLhyphen"/>ned: that then the ſaid party ſhall be apprehended and executed by the ſaid Knight marſhall or Prouoſt marſhall, and that within the Counties, or Cities where the ſaid perſon ſhall be ſo apprehended, according to ſuch direction as ſhall be giuen by warrant from her Maieſty, in that behalfe to be made. And her Maieſty commandeth that the Maiors, and other principall officers Corporate townes, and the Iuſtice of peace in the ſeuerall Counties, ſhall vpon the repayre vnto them of any the ſaid Souldiers, Mariners, vagarant perſons, and Maſterleſſe men, deliuer vnto them Paſports contei<g ref="char:EOLhyphen"/>ning a limitation of time for their repaire of y<hi rend="sup">e</hi> place where they were borne or laſt reſident, according to the ſaid ſtatute, al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ing vnto thoſe that ſhalbe found ſound of theyr limmes, after the rate of xii. miles by the day agreeable to the diſtance of the place vnto which they ſhalbe ſo directed, with permiſſion to require the beneuolence of good people for their reliefe by the way. And to others that are impotent or maimed, ſuch a rate of miles by the day, as by the ſaid Maiors &amp; Iuſtices in theyr diſcretion ſhalbe thought meet, &amp; that within theyr Paſports, the notable Townes &amp; thorowfares for theyr paſſings be expreſſed, from which if they ſwarue, then ſuch perſons to be puniſhed according to the purport of this Proclamation.</p>
+            <p>And wheras her Maieſtie is alſo giuen to vnderſtand, that heretofore the maſters of ſuch perſons as haue bene preſted <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her highneſſe ſeruice, haue refuſed vpon the returne of the ſayd perſons, to receiue them into their ſeruice, being able to ſerue: whereby diuers of the ſaide perſons haue bene enforced for lacke of reliefe, being not ſet a worke, to goe vp and <gap reason="illegible: in gutter" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ne begging, contrary to the Lawes and ſtatutes of this realme: Her Maieſties pleaſure is, that the ſayde Maiors, principall Officers of corporate townes, and Iuſtices ſhall take order that the ſayd maſters, with whome the ſayd perſons haue laſt ſerued, ſhall receiue them againe into their ſeruice, and vpon refuſall thereof, commit them to priſon, or other<g ref="char:EOLhyphen"/>wiſe puniſh them, as in their diſcretions ſhalbe thought meete. And her highneſſe further pleaſure and expreſſe comman<g ref="char:EOLhyphen"/>dement is, that the ſayd Maiors, and principall Officers in Corporate Townes, &amp; the ſayd Iuſtices in the ſeuerall coun<g ref="char:EOLhyphen"/>ties, ſhall take order, that ſuch as are impotent perſons, repayring to the places and pariſhes of their laſt reſidencie, ſhall receiue ſome weekly reliefe eyther in the ſayde pariſh, or for want of abilitie in that pariſh, then by ſome contribution of the pariſhes adioyning, as by the ſtatute is prouided. And that in caſe any of the ſaid maiors, officers in Corporate townes, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iuſtices of peace of the ſeuerall Counties, ſhall deale remiſſely in the execution of this preſent proclamation, as hereto<g ref="char:EOLhyphen"/>fore they haue done in the execution of other like proclamations: Her highneſſe pleaſure is, that the ſayde perſons ſo offen<g ref="char:EOLhyphen"/>ding, ſhable called before the Lords and other of the Maieſties priuie Counſell in the Starrechamber, and that then vp<g ref="char:EOLhyphen"/>on information to be giuen by her Maieſties Atturney generall, or other her learned Counſell for the time being, of their defaults in this behalfe, the ſayde offences being duely prooued, they by order of that Court ſhall not onely be puniſhed by <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine and impriſonment, but alſo diſinhabled euer afterwards to beare any publique offices within this Realme.</p>
+            <closer>
+               <signed>Giuen at our Manour of Richmond, <date>the xiii. day of Nouember. In the one and thirtieth yeere of our raigne.</date>
+               </signed>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher Barker, <hi>Printer to the Queenes most exellent Maiestie.</hi> Anno 1589.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
